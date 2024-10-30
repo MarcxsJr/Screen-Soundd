@@ -1,0 +1,15 @@
+D:\Projetos C#\Aluracurso2\Projetin\bin\Debug\net8.0\Projetin.exe
+D:\Projetos C#\Aluracurso2\Projetin\bin\Debug\net8.0\Projetin.deps.json
+D:\Projetos C#\Aluracurso2\Projetin\bin\Debug\net8.0\Projetin.runtimeconfig.json
+D:\Projetos C#\Aluracurso2\Projetin\bin\Debug\net8.0\Projetin.dll
+D:\Projetos C#\Aluracurso2\Projetin\bin\Debug\net8.0\Projetin.pdb
+D:\Projetos C#\Aluracurso2\Projetin\obj\Debug\net8.0\Projetin.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos C#\Aluracurso2\Projetin\obj\Debug\net8.0\Projetin.AssemblyInfoInputs.cache
+D:\Projetos C#\Aluracurso2\Projetin\obj\Debug\net8.0\Projetin.AssemblyInfo.cs
+D:\Projetos C#\Aluracurso2\Projetin\obj\Debug\net8.0\Projetin.csproj.CoreCompileInputs.cache
+D:\Projetos C#\Aluracurso2\Projetin\obj\Debug\net8.0\Projetin.sourcelink.json
+D:\Projetos C#\Aluracurso2\Projetin\obj\Debug\net8.0\Projetin.dll
+D:\Projetos C#\Aluracurso2\Projetin\obj\Debug\net8.0\refint\Projetin.dll
+D:\Projetos C#\Aluracurso2\Projetin\obj\Debug\net8.0\Projetin.pdb
+D:\Projetos C#\Aluracurso2\Projetin\obj\Debug\net8.0\Projetin.genruntimeconfig.cache
+D:\Projetos C#\Aluracurso2\Projetin\obj\Debug\net8.0\ref\Projetin.dll
